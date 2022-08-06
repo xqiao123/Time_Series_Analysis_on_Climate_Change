@@ -19,7 +19,8 @@ Furthermore, we’ll determine the training and test dataset for all countries w
 
 To better understand how the changes in temperature spread globally, instead of analyzing the global temperature as a whole, we intentionally select three coutries to represent different longitude and latitude combinations:
 - India is located in both the Northern and Eastern hemispheres
-- Colombia is located in both the Southern and Western hemispheres q Australia is located in both the Southern and Eastern hemispheres
+- Colombia is located in both the Southern and Western hemispheres  
+- Australia is located in both the Southern and Eastern hemispheres
 
 In addition, we would like to further investigate how temperature changes within one country. Thus in this case, we select three states from different parts of the United States:
 - New York State from the Northeast 
