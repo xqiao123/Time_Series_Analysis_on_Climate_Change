@@ -26,3 +26,5 @@ In addition, we would like to further investigate how temperature changes within
 - New York State from the Northeast 
 - California from the Southwest
 - Texas from the South
+
+Please click [here](https://github.com/xqiao123/Time_Series_Analysis_on_Climate_Change/blob/main/Report.pdf) to view the complete report.
