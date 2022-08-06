@@ -7,7 +7,7 @@ Climate change has been a controversial topic in many aspects, such as whether c
 
 *Index Terms: Temperature, ETS, ARIMA, neural network, bagging, emission*
 
-##Introduction and Motivation
+## Introduction and Motivation
 The purpose of this report is to forecast climate change. Hot days and heatwaves are becoming increasingly common in all geographical areas; 2020 was one of the warmest years on record. Temperature changes can also lead to increases in rainfall. As a result, storms become more severe and frequent and can damage land and human lives. More areas are experiencing water scarcity. Droughts can cause devastation by causing massive sand and dust storms that can move billions of tons of sand across continents. Predicting climate change will help us understand how climate is changing and will also be helpful to prepare for future natural disasters. Through the analysis of this paper, we will compare the trend and seasonality of three countries and three states. Then we will move on to build and compare several forecasting models. Lastly, we will also compare the greenhouse effect as it is related to global warming and climate change.
 
 ## The Data Set
